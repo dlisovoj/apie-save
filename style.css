@@ -1,0 +1,52 @@
+html {
+    margin: 0;
+	padding: 0;
+	border: 0;
+    background: linear-gradient(to top right,#FFAFAF,#AE4CCF);
+}
+.heading {
+    color: #FBFFE2;
+    font-family: Fuzzy Bubbles;
+    text-align: center;
+    font-size: larger;
+    margin: 50px auto;
+    box-shadow: 0 0 25px #FFEBCC;
+    border: 10px dotted #FFEBCC;
+    width: 75%;
+    text-shadow: 2px 2px 5px hotpink;
+}
+p {
+    color: #FBFFE2;
+    font-family: Fuzzy Bubbles;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px auto;
+    /* margin-left: 10%; */
+    /* margin: 50px auto; */
+    /* box-shadow: 0 0 25px #FFEBCC;
+    border: 10px dotted #FFEBCC; */
+    /* width: 20%; */
+}
+.border {
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 0 0 25px #FFEBCC;
+    border: 10px dotted #FFEBCC;
+    text-shadow: 2px 2px 5px hotpink;
+}
+#tree1 {
+    margin-left: 46%;
+    margin-bottom: 2%;
+}
+#trees {
+    margin-top: 2%;
+    margin-left: 46%;
+    margin-bottom: 2%;
+}
+
+  #biglol {
+    font-size: 50px;
+    color: #FBFFE2;
+    font-family: Fuzzy Bubbles;
+    text-align: center;
+  }
